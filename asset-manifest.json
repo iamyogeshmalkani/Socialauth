@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Socialauth/static/css/main.a617e044.chunk.css",
+    "main.js": "/Socialauth/static/js/main.8fe8138a.chunk.js",
+    "main.js.map": "/Socialauth/static/js/main.8fe8138a.chunk.js.map",
+    "runtime-main.js": "/Socialauth/static/js/runtime-main.d2e8ae17.js",
+    "runtime-main.js.map": "/Socialauth/static/js/runtime-main.d2e8ae17.js.map",
+    "static/js/2.334f3825.chunk.js": "/Socialauth/static/js/2.334f3825.chunk.js",
+    "static/js/2.334f3825.chunk.js.map": "/Socialauth/static/js/2.334f3825.chunk.js.map",
+    "static/js/3.4e175e6e.chunk.js": "/Socialauth/static/js/3.4e175e6e.chunk.js",
+    "static/js/3.4e175e6e.chunk.js.map": "/Socialauth/static/js/3.4e175e6e.chunk.js.map",
+    "index.html": "/Socialauth/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Socialauth/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.334f3825.chunk.js.LICENSE.txt": "/Socialauth/static/js/2.334f3825.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Socialauth/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2e8ae17.js",
+    "static/js/2.334f3825.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8fe8138a.chunk.js"
+  ]
+}
